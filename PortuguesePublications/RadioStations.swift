@@ -53,6 +53,12 @@ let radioStations: [RadioStation] = [
         logo: "rfm"
     ),
     RadioStation(
+        name: "Mega Hits",
+        image: "https://upload.wikimedia.org/wikipedia/pt/b/be/Log%C3%B3tipo_da_Mega_Hits.png",
+        url: "https://20863.live.streamtheworld.com/MEGA_HITS_SC",
+        logo: "megahits"
+    ),
+    RadioStation(
         name: "Antena 1",
         image: "https://i.postimg.cc/9fGxdWmY/antena1.png",
         url: "https://radiocast.rtp.pt/antena180a.mp3",
@@ -61,7 +67,13 @@ let radioStations: [RadioStation] = [
     RadioStation(
         name: "Antena 2",
         image: "https://i.postimg.cc/7YfmB1P6/antena2.png",
-        url: "https://radiocast.rtp.pt/antena180a.mp3",
+        url: "https://radiocast.rtp.pt/antena280a.mp3",
         logo: "antena2"
+    ),
+    RadioStation(
+        name: "Antena 3",
+        image: "https://i.postimg.cc/x156d9Rk/antena3.png",
+        url: "https://radiocast.rtp.pt/antena380a.mp3",
+        logo: "antena3"
     ),
 ]

@@ -29,7 +29,7 @@ struct RadioStationView: View {
                     VStack {
                         ProgressView()
                     }
-                    .frame(width: 50.0, height: 50.0)
+                    .frame(width: 55.0, height: 55.0)
                     
                 } else {
                     Image(systemName: isPlaying ? "pause.circle": "play.circle")
